@@ -1,0 +1,11 @@
+C:\Users\nagendra.gillalu\Documents\Visual Studio 2017\Projects\CUI_Nagendra\CUI_Nagendra\bin\Debug\netcoreapp2.1\CUI_Nagendra.deps.json
+C:\Users\nagendra.gillalu\Documents\Visual Studio 2017\Projects\CUI_Nagendra\CUI_Nagendra\bin\Debug\netcoreapp2.1\CUI_Nagendra.runtimeconfig.json
+C:\Users\nagendra.gillalu\Documents\Visual Studio 2017\Projects\CUI_Nagendra\CUI_Nagendra\bin\Debug\netcoreapp2.1\CUI_Nagendra.runtimeconfig.dev.json
+C:\Users\nagendra.gillalu\Documents\Visual Studio 2017\Projects\CUI_Nagendra\CUI_Nagendra\bin\Debug\netcoreapp2.1\CUI_Nagendra.dll
+C:\Users\nagendra.gillalu\Documents\Visual Studio 2017\Projects\CUI_Nagendra\CUI_Nagendra\bin\Debug\netcoreapp2.1\CUI_Nagendra.pdb
+C:\Users\nagendra.gillalu\Documents\Visual Studio 2017\Projects\CUI_Nagendra\CUI_Nagendra\obj\Debug\netcoreapp2.1\CUI_Nagendra.csprojAssemblyReference.cache
+C:\Users\nagendra.gillalu\Documents\Visual Studio 2017\Projects\CUI_Nagendra\CUI_Nagendra\obj\Debug\netcoreapp2.1\CUI_Nagendra.csproj.CoreCompileInputs.cache
+C:\Users\nagendra.gillalu\Documents\Visual Studio 2017\Projects\CUI_Nagendra\CUI_Nagendra\obj\Debug\netcoreapp2.1\CUI_Nagendra.AssemblyInfoInputs.cache
+C:\Users\nagendra.gillalu\Documents\Visual Studio 2017\Projects\CUI_Nagendra\CUI_Nagendra\obj\Debug\netcoreapp2.1\CUI_Nagendra.AssemblyInfo.cs
+C:\Users\nagendra.gillalu\Documents\Visual Studio 2017\Projects\CUI_Nagendra\CUI_Nagendra\obj\Debug\netcoreapp2.1\CUI_Nagendra.dll
+C:\Users\nagendra.gillalu\Documents\Visual Studio 2017\Projects\CUI_Nagendra\CUI_Nagendra\obj\Debug\netcoreapp2.1\CUI_Nagendra.pdb
